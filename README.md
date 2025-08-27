@@ -5,7 +5,7 @@ I want to desing and build a computer that manages both homelab and gaming pc
 **Function:** 
 I wanted both a homelab to run self hosted applications and I also wanted a gmaing pc so I will be using proxmox ve and i will have some virtual machines (See vms below) for my main desktop I will be running my  linux distro arch with kde plasma as the de for work and gaming (you can use what ever you like linux windows mac ect) I dont wantt to just use at my house so by using Cloud flare tunnel to host a dashboard with an emeded rust vnc iframe so as long as i can acess the website i can acess a fully woking de with gpu passthrough for gmaing and rendering while on mobile hardware not to mention the use of steam link to make remote gaming from my phone or steam deck viable 
 
-
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRIqS3i_5DhKcZNx1BC94aoKYvDCWlL5qv4Q&s 
 operating system  it will be running proxmox ve it will have 3 virtual machines  
  
   + 1 ubuntu server for self hosted services 
